@@ -1,0 +1,43 @@
+@import url(http://weloveiconfonts.com/api/?family=openwebicons);
+
+/* openwebicons */
+[class*="openwebicons-"]:before {
+  font-family: 'OpenWeb Icons', sans-serif;
+}
+hr { 
+	height:2px;
+} 
+h1 {
+	text-align:right;
+	font-family: 'Lobster', cursive;
+	font-size: 50px
+}
+
+h3 {
+	font-family: 'Oswald', sans-serif;
+}
+
+img {
+	max-width: 100%;
+}
+.header-description {
+	text-align:	right;
+	padding-bottom: 20px;
+	font-family: 'Oswald', sans-serif;
+}
+
+.openwebicons-persona {
+	padding-top: 40px;
+	padding-bottom: 20px;
+	font-size: 50px;
+}
+
+.row {
+    margin-left: -5px;
+    margin-right: -5px;
+}
+
+.featured {
+	font-family: 'Oswald', sans-serif;
+}
+
